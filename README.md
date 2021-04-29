@@ -1,51 +1,35 @@
-contact.html
 
-<--Don't worry about this page yet. ->
+PASTE  THE BELOW TEXT IN README SECTION
 
-<!DOCTYPE html>
+# SHAPEAI WEB DEV BOOTCAMP
 
-<html lang="en">
 
-<head>
 
-<title>Contact | My Awesome Website!</title>
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
 
-<meta charset="utf-8">
+The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 
-<meta http-equiv="X-UA-Compatible" content-IE-edge">
+<br>I got to have hands on experience on:
 
-<meta name="viewport" content-"width-device-width, initial-scale-1"> <link rel="stylesheet" href="style.css"
+<li>HTML
 
-</head>
+<li>CSS
 
-<body>
+<br>during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 
-<div class="top">
 
-<h1> Contact Me!</h1>
 
-<div class="nav">
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech
 
-<ul>
+or follow SHAPEAI on:
 
-<li><a href="index.html">Home</a></li>
+  <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>   
 
-<li><a href= "contact.html">Contact</a></li>
+  <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>  
 
-</ul>
+  <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a> 
 
-</div>
+  <li><a href="https://github.com/shapeai">GitHub</a>
 
-</div>
+  
 
-<br>
-
-</body>
-
-</html>
-
-12-
-
-New
-
-Tools A
